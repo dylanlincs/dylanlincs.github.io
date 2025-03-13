@@ -28,9 +28,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Physically-Based Sound Synthesis
+    - name: Physics-Based Sound Synthesis
       tag: SS
-    - name: Physically-Based Simulation
+    - name: Physics-Based Simulation
       tag: PS
     - name: etc
       tag: etc
