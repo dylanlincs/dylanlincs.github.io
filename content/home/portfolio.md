@@ -32,8 +32,6 @@ content:
       tag: SS
     - name: Physics-Based Simulation
       tag: PS
-    - name: ETC
-      tag: etc
       
 design:
   columns: '1'
