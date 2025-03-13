@@ -32,9 +32,7 @@ content:
       tag: SS
     - name: Physically-Based Simulation
       tag: PS
-    - name: Rendering
-      tag: LT
-      
+
 design:
   columns: '1'
   view: masonry
