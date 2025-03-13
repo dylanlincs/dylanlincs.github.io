@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Physically-Based Sound Synthesis
+      tag: PBSS
+    - name: Physically-Based Simulation
+      tag: PBS
+    - name: Other
+      tag: Other
 
 design:
   columns: '1'
