@@ -1,6 +1,6 @@
 ---
-title: SPH (Smoothed-Particle Hydrodynamics) Simulation
-summary: Write about your project here...
+title: SPH Simulation
+summary: Smoothed-Particle Hydrodynamics fluid simulation.
 tags:
   - PS
 date: 2022-01-01

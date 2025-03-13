@@ -1,6 +1,6 @@
 ---
-title: WaveBlender
-summary: FDTD Physically-Based Sound Synthesis.
+title: Acustica
+summary: Physically-Based Audio Engine.
 tags:
   - SS
 date: 2022-01-01

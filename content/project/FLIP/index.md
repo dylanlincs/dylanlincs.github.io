@@ -1,6 +1,6 @@
 ---
-title: FLIP (Fluid Implicit Particle) Simulation
-summary: Write about your project here...
+title: FLIP Simulation
+summary: Fluid Implicit Particle fluid simulation.
 tags:
   - PS
 date: 2022-01-01

@@ -1,6 +1,6 @@
 ---
-title: WaveBlender
-summary: FDTD Physically-Based Sound Synthesis.
+title: Mechanica
+summary: High fidelity physics simulation engine.
 tags:
   - SS
 date: 2022-01-01
