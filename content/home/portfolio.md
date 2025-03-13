@@ -34,8 +34,7 @@ content:
       tag: PS
     - name: Rendering
       tag: LT
-    - name: Others
-      tag: OT
+      
 design:
   columns: '1'
   view: masonry
