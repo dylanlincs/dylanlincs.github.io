@@ -29,12 +29,9 @@ content:
     - name: All
       tag: '*'
     - name: Physically-Based Sound Synthesis
-      tag: PBSS
+      tag: SS
     - name: Physically-Based Simulation
-      tag: PBS
-    - name: Other
-      tag: Other
-
+      tag: PS
 design:
   columns: '1'
   view: masonry
