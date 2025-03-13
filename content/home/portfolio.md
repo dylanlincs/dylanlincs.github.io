@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Physics-Based Sound Synthesis
+    - name: Physics-Based Sound
       tag: SS
     - name: Physics-Based Simulation
       tag: PS
-    - name: etc
+    - name: ETC
       tag: etc
       
 design:
